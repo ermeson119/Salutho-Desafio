@@ -9,12 +9,12 @@ entre na pasta "django-backend-Salutho"
 ```bash
 cd django-backend-Salutho
 python -m venv venv
-venv/bin/activate  # No Windows: venv\Scripts\activate
+.\venv\Scripts\activatee  # No Windows: venv\Scripts\activate
 ```
 
 2. Instale as dependências:
 ```bash
-pip install -r requirements.txt
+v
 ```
 
 3. Execute o servidor:
